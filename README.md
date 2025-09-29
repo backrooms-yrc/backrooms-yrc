@@ -1,5 +1,11 @@
 # 👋 Hi there, I'm Rcst20  
 
+你好，My bro！我是*Rcst20.*（都叫兄弟了那还说啥啊～～）
+至于为什么我的用户名是backromms-yrc，呃……这么说吧，这个账号自打我小学之时就已经陪伴着我了，当时索性乱起了一个用户名🤓👆而现在……可是超链接指向这里太多想改早就来不及😅
+
+---
+
+## 🤯 一些无用的数据……
 ![Profile Views](https://komarev.com/ghpvc/?username=Rcst20&color=blueviolet&style=for-the-badge)  
 ![Followers](https://img.shields.io/github/followers/Rcst20?style=for-the-badge)  
 ![Stars](https://img.shields.io/github/stars/Rcst20?style=for-the-badge)  
@@ -33,11 +39,6 @@
 
 ## ⌨️ 打字动画
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=F75C7E&center=true&vCenter=true&lines=Hi!+I'm+Rcst20;Coding+is+fun!;Welcome+to+my+GitHub!;未来可期🚀)](https://git.io/typing-svg)
-
----
-
-## 🐍 动态贪吃蛇
-![Snake animation](https://github.com/backrooms-yrc/backrooms-yrc/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
