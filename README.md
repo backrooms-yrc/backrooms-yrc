@@ -25,9 +25,9 @@
 ---
 
 ## 📊 数据统计
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rcst20&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rcst20&layout=compact&theme=tokyonight)  
-![Streak Stats](https://streak-stats.demolab.com?user=Rcst20&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=backrooms-yrc&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=backrooms-yrc&layout=compact&theme=tokyonight)  
+![Streak Stats](https://streak-stats.demolab.com?user=backrooms-yrc&theme=tokyonight&hide_border=true)
 
 ---
 
@@ -37,7 +37,7 @@
 ---
 
 ## 🐍 动态贪吃蛇
-![Snake animation](https://github.com/Rcst20/Rcst20/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/backrooms-yrc/backrooms-yrc/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
