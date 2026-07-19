@@ -45,8 +45,6 @@
 
 ##  仓库统计
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=backrooms-yrc&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=backrooms-yrc&layout=compact&theme=tokyonight)
 ![Streak Stats](https://streak-stats.demolab.com?user=backrooms-yrc&theme=tokyonight&hide_border=true)
 
 ---
