@@ -4,7 +4,7 @@
 
 ---
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3500&pause=800&color=F75C7E&center=true&vCenter=true&width=560&lines=%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%E3%80%81Rcst20%20%E3%81%A7%E3%81%99%2F%E9%AB%98%E6%A0%A1%E7%94%9F%20%C2%B7%20%E5%80%8B%E4%BA%BA%E9%96%8B%E7%99%BA%E8%80%85%20%C2%B7%20%E3%82%A6%E3%82%A3%E3%82%AD%E3%83%9A%E3%83%87%E3%82%A3%E3%82%A2%E3%83%B3%2FGitHub%20%E3%81%B8%E3%82%88%E3%81%86%E3%81%93%E3%81%9D%EF%BC%81" alt="Typing SVG" width="560" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3500&pause=800&color=F75C7E&center=true&vCenter=true&width=560&lines=%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%E3%80%81Rcst20%20%E3%81%A7%E3%81%99%3B%E9%AB%98%E6%A0%A1%E7%94%9F%20%C2%B7%20%E5%80%8B%E4%BA%BA%E9%96%8B%E7%99%BA%E8%80%85%20%C2%B7%20%E3%82%A6%E3%82%A3%E3%82%AD%E3%83%9A%E3%83%87%E3%82%A3%E3%82%A2%E3%83%B3%3BGitHub%20%E3%81%B8%E3%82%88%E3%81%86%E3%81%93%E3%81%9D%EF%BC%81" alt="Typing SVG" width="560" />
 
 **サーバーいじり・コーディング・小さな作品づくりが大好きな高校生**
 
