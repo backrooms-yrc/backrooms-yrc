@@ -21,7 +21,7 @@
 - 🎓 High school student from **Lu'an, Anhui, China**
 - 💻 Created this account back in 7th grade — the username is a bit silly, but too many links now point to it, so it stays as a souvenir~
 - 🤖 **AstrBot plugin author**, focused on LLM apps & chatbot development
-- 📖 **Editor on Chinese Wikipedia** ([User:20yrc25](https://zh.wikipedia.org/wiki/User:20yrc25)), writing articles about local schools & education
+- 📖 **Editor on Chinese Wikipedia** ([User:Rcst20](https://zh.wikipedia.org/wiki/User:Rcst20)), writing articles about local schools & education
 - 🏢 Running a one-person studio, **Rcst Network Studio**
 - 🌸 ACGN fan — occasional fanfic writer & virtual TV station projects
 
@@ -72,7 +72,7 @@
 [![QQ Mail](https://img.shields.io/badge/QQ-1945826346%40qq.com-EB1923?style=for-the-badge&logo=tencentqq&logoColor=white)](mailto:1945826346@qq.com)
 [![Telegram](https://img.shields.io/badge/Telegram-%40rcst20-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/rcst20)
 [![Blog](https://img.shields.io/badge/Blog-hmnl4.20110208.xyz-8E2DE2?style=for-the-badge&logo=githubpages&logoColor=white)](https://hmnl4.20110208.xyz)
-[![Wikipedia](https://img.shields.io/badge/Wikipedia-User%3A20yrc25-666666?style=for-the-badge&logo=wikipedia&logoColor=white)](https://zh.wikipedia.org/wiki/User:20yrc25)
+[![Wikipedia](https://img.shields.io/badge/Wikipedia-User%3ARcst20-666666?style=for-the-badge&logo=wikipedia&logoColor=white)](https://zh.wikipedia.org/wiki/User:Rcst20)
 
 - QQ: `1945826346`
 - Want to talk tech, share ideas or collaborate? Reach me through any channel above~
