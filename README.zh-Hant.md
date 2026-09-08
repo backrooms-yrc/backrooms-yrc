@@ -21,7 +21,7 @@
 - 🎓 高中生，座標 **中國 · 安徽 · 六安**
 - 💻 國一那年建立了這個帳號，名字現在想來確實有點尷尬，但很多連結都指向它了，留著作紀念喵～
 - 🤖 **AstrBot 外掛作者**，專注 LLM 應用與聊天機器人開發
-- 📖 **中文維基百科編者**（[User:20yrc25](https://zh.wikipedia.org/wiki/User:20yrc25)），為家鄉的學校與教育類條目撰稿
+- 📖 **中文維基百科編者**（[User:Rcst20](https://zh.wikipedia.org/wiki/User:Rcst20)），為家鄉的學校與教育類條目撰稿
 - 🏢 一人工作室 **Rcst Network Studio** 經營者
 - 🌸 ACGN 愛好者，偶爾寫同人文，也玩虛擬電視台企劃
 
@@ -72,7 +72,7 @@
 [![QQ Mail](https://img.shields.io/badge/QQ-1945826346%40qq.com-EB1923?style=for-the-badge&logo=tencentqq&logoColor=white)](mailto:1945826346@qq.com)
 [![Telegram](https://img.shields.io/badge/Telegram-%40rcst20-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/rcst20)
 [![Blog](https://img.shields.io/badge/Blog-hmnl4.20110208.xyz-8E2DE2?style=for-the-badge&logo=githubpages&logoColor=white)](https://hmnl4.20110208.xyz)
-[![Wikipedia](https://img.shields.io/badge/Wikipedia-User%3A20yrc25-666666?style=for-the-badge&logo=wikipedia&logoColor=white)](https://zh.wikipedia.org/wiki/User:20yrc25)
+[![Wikipedia](https://img.shields.io/badge/Wikipedia-User%3ARcst20-666666?style=for-the-badge&logo=wikipedia&logoColor=white)](https://zh.wikipedia.org/wiki/User:Rcst20)
 
 - QQ：`1945826346`
 - 想交流技術、提建議或合作？歡迎透過以上任何方式聯絡我喵～
