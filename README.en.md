@@ -4,7 +4,7 @@
 
 ---
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3500&pause=800&color=F75C7E&center=true&vCenter=true&width=560&lines=Hi%20there%2C%20I%27m%20Rcst20%2FHigh%20schooler%20%C2%B7%20Indie%20developer%20%C2%B7%20Wikipedian%2FWelcome%20to%20my%20GitHub%21" alt="Typing SVG" width="560" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3500&pause=800&color=F75C7E&center=true&vCenter=true&width=560&lines=Hi%20there%2C%20I%27m%20Rcst20%3BHigh%20schooler%20%C2%B7%20Indie%20developer%20%C2%B7%20Wikipedian%3BWelcome%20to%20my%20GitHub%21" alt="Typing SVG" width="560" />
 
 **High schooler who loves tinkering with servers, writing code & building small projects**
 
