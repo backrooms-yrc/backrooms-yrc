@@ -4,7 +4,7 @@
 
 ---
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3500&pause=800&color=F75C7E&center=true&vCenter=true&width=560&lines=%E4%BD%A0%E5%A5%BD%E5%96%B5%EF%BC%8C%E6%88%91%E6%98%AF%20Rcst20%2F%E9%AB%98%E4%B8%AD%E7%94%9F%20%C2%B7%20%E7%8B%AC%E7%AB%8B%E5%BC%80%E5%8F%91%E8%80%85%20%C2%B7%20%E7%BB%B4%E5%9F%BA%E7%99%BE%E7%A7%91%E7%BC%96%E8%80%85%2FWelcome%20to%20my%20GitHub%21" alt="Typing SVG" width="560" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3500&pause=800&color=F75C7E&center=true&vCenter=true&width=560&lines=%E4%BD%A0%E5%A5%BD%E5%96%B5%EF%BC%8C%E6%88%91%E6%98%AF%20Rcst20%3B%E9%AB%98%E4%B8%AD%E7%94%9F%20%C2%B7%20%E7%8B%AC%E7%AB%8B%E5%BC%80%E5%8F%91%E8%80%85%20%C2%B7%20%E7%BB%B4%E5%9F%BA%E7%99%BE%E7%A7%91%E7%BC%96%E8%80%85%3BWelcome%20to%20my%20GitHub%21" alt="Typing SVG" width="560" />
 
 **喜欢折腾服务器、写代码、做小项目的高中生**
 
