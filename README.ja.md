@@ -21,7 +21,7 @@
 - 🎓 中国安徽省六安市在住の高校生
 - 💻 中学1年生の頃にこのアカウントを作りました。名前は今となってはちょっとイタいけど、たくさんのリンクがここを指しているので、記念にそのまま使っています
 - 🤖 **AstrBot プラグイン作者**。LLM アプリとチャットボット開発が中心
-- 📖 **中国語版ウィキペディア編集者**（[User:20yrc25](https://zh.wikipedia.org/wiki/User:20yrc25)）。地元の学校や教育に関する記事を執筆中
+- 📖 **中国語版ウィキペディア編集者**（[User:Rcst20](https://zh.wikipedia.org/wiki/User:Rcst20)）。地元の学校や教育に関する記事を執筆中
 - 🏢 一人スタジオ **Rcst Network Studio** 運営
 - 🌸 ACGN 好き。たまに二次創作小説を書いたり、架空のテレビ局企画をやったりします
 
@@ -72,7 +72,7 @@
 [![QQ Mail](https://img.shields.io/badge/QQ-1945826346%40qq.com-EB1923?style=for-the-badge&logo=tencentqq&logoColor=white)](mailto:1945826346@qq.com)
 [![Telegram](https://img.shields.io/badge/Telegram-%40rcst20-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/rcst20)
 [![Blog](https://img.shields.io/badge/Blog-hmnl4.20110208.xyz-8E2DE2?style=for-the-badge&logo=githubpages&logoColor=white)](https://hmnl4.20110208.xyz)
-[![Wikipedia](https://img.shields.io/badge/Wikipedia-User%3A20yrc25-666666?style=for-the-badge&logo=wikipedia&logoColor=white)](https://zh.wikipedia.org/wiki/User:20yrc25)
+[![Wikipedia](https://img.shields.io/badge/Wikipedia-User%3ARcst20-666666?style=for-the-badge&logo=wikipedia&logoColor=white)](https://zh.wikipedia.org/wiki/User:Rcst20)
 
 - QQ：`1945826346`
 - 技術の話でも、企画の話でも、お気軽にご連絡ください～
