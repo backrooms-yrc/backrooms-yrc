@@ -57,3 +57,7 @@
 [![QQ Mail](https://img.shields.io/badge/QQ%20Mail-46566F?style=flat-square&logo=tencentqq&logoColor=white)](mailto:1945826346@qq.com)
 [![Telegram](https://img.shields.io/badge/Telegram-46566F?style=flat-square&logo=telegram&logoColor=white)](https://t.me/rcst20)
 [![維基百科](https://img.shields.io/badge/Wikipedia-46566F?style=flat-square&logo=wikipedia&logoColor=white)](https://zh.wikipedia.org/wiki/User:Rcst20)
+
+## 喵喵叫環節
+
+喵。修完這個 bug 就去看百合。
