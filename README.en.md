@@ -1,4 +1,4 @@
-# Hi, I’m Rcst20
+# Hi, I’m Rcst20! Meow!
 
 [简体中文](README.md) · [繁體中文](README.zh-Hant.md) · **English** · [日本語](README.ja.md)
 
@@ -11,9 +11,9 @@
 [![Followers](https://img.shields.io/github/followers/backrooms-yrc?style=flat-square&label=Followers&color=315A66)](https://github.com/backrooms-yrc?tab=followers)
 [![Stars](https://img.shields.io/github/stars/backrooms-yrc?style=flat-square&label=Stars&color=315A66)](https://github.com/backrooms-yrc?tab=repositories)
 
-I’m in high school, and I like tinkering with servers. I build web apps and tools you can run yourself, and put them out under the name **Rcst Network Studio**.
+I’m in high school, and I like tinkering with servers. I build web apps and tools you can run yourself. I release my own projects and my team’s projects under the name **CurrentCortex Studio**.
 
-Away from the editor, I add bits and pieces to Chinese Wikipedia articles about schools and education in my hometown. I also write fan fiction and plan the occasional virtual TV station project. [Wikipedia user page](https://zh.wikipedia.org/wiki/User:Rcst20) · [Fiction](https://github.com/backrooms-yrc/Tsumugi-Yuzuha-Fanfics)
+When I’m not coding, I add bits and pieces to articles on Chinese Wikipedia. [Wikipedia user page](https://zh.wikipedia.org/wiki/User:Rcst20) · [Fan fiction I posted on someone else’s behalf](https://github.com/backrooms-yrc/Tsumugi-Yuzuha-Fanfics)
 
 ## Things I’ve built
 
@@ -52,7 +52,7 @@ Away from the editor, I add bits and pieces to Chinese Wikipedia articles about 
 
 ## Say hi
 
-Want to talk about a project or swap ideas? Here’s where to find me.
+Want to talk about a project or swap ideas? Here’s where to find me, meow~
 
 [![Blog](https://img.shields.io/badge/Blog-46566F?style=flat-square&logo=githubpages&logoColor=white)](https://hmnl4.20110208.xyz)
 [![Gmail](https://img.shields.io/badge/Gmail-46566F?style=flat-square&logo=gmail&logoColor=white)](mailto:ruochenyang161@gmail.com)
@@ -60,6 +60,6 @@ Want to talk about a project or swap ideas? Here’s where to find me.
 [![Telegram](https://img.shields.io/badge/Telegram-46566F?style=flat-square&logo=telegram&logoColor=white)](https://t.me/rcst20)
 [![Wikipedia](https://img.shields.io/badge/Wikipedia-46566F?style=flat-square&logo=wikipedia&logoColor=white)](https://zh.wikipedia.org/wiki/User:Rcst20)
 
-## Meow break
+## The End
 
-Meow. One more bug fix, then it’s yuri time.
+Once I fix this bug, it’s yuri time.

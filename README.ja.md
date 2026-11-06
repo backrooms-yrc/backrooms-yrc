@@ -1,4 +1,4 @@
-# こんにちは、Rcst20 です
+# こんにちは、Rcst20 ですにゃ！
 
 [简体中文](README.md) · [繁體中文](README.zh-Hant.md) · [English](README.en.md) · **日本語**
 
@@ -11,9 +11,9 @@
 [![フォロワー](https://img.shields.io/github/followers/backrooms-yrc?style=flat-square&label=Followers&color=315A66)](https://github.com/backrooms-yrc?tab=followers)
 [![スター](https://img.shields.io/github/stars/backrooms-yrc?style=flat-square&label=Stars&color=315A66)](https://github.com/backrooms-yrc?tab=repositories)
 
-サーバーをいじるのが好きな高校生です。普段は Web アプリや自分で動かせるツールを作って、**Rcst Network Studio** の名前で公開しています。
+サーバーをいじるのが好きな高校生です。普段は Web アプリや自分で動かせるツールを作っています。自分やチームのプロジェクトは、**CurrentCortex Studio** の名前で公開しています。
 
-コードを書いていないときは、中国語版ウィキペディアで地元の学校や教育の記事に情報を足したりしています。二次創作小説を書いたり、架空のテレビ局の企画を考えたりもします。 [ウィキペディア利用者ページ](https://zh.wikipedia.org/wiki/User:Rcst20) · [創作作品](https://github.com/backrooms-yrc/Tsumugi-Yuzuha-Fanfics)
+コードを書いていないときは、中国語版ウィキペディアの記事に情報を足したりしています。 [ウィキペディア利用者ページ](https://zh.wikipedia.org/wiki/User:Rcst20) · [代理投稿した二次創作](https://github.com/backrooms-yrc/Tsumugi-Yuzuha-Fanfics)
 
 ## 作ったもの
 
@@ -52,7 +52,7 @@
 
 ## 連絡はこちら
 
-プロジェクトの話やアイデア交換など、気軽に声をかけてください。
+プロジェクトの話やアイデア交換など、気軽に声をかけてくださいにゃ〜
 
 [![ブログ](https://img.shields.io/badge/Blog-46566F?style=flat-square&logo=githubpages&logoColor=white)](https://hmnl4.20110208.xyz)
 [![Gmail](https://img.shields.io/badge/Gmail-46566F?style=flat-square&logo=gmail&logoColor=white)](mailto:ruochenyang161@gmail.com)
@@ -60,6 +60,6 @@
 [![Telegram](https://img.shields.io/badge/Telegram-46566F?style=flat-square&logo=telegram&logoColor=white)](https://t.me/rcst20)
 [![ウィキペディア](https://img.shields.io/badge/Wikipedia-46566F?style=flat-square&logo=wikipedia&logoColor=white)](https://zh.wikipedia.org/wiki/User:Rcst20)
 
-## にゃータイム
+## The End
 
-にゃー。このバグを直したら百合を読む。
+このバグを直したら百合を読む。
