@@ -1,21 +1,21 @@
-# Rcst20
+# 嗨，我是 Rcst20
 
 [简体中文](README.md) · **繁體中文** · [English](README.en.md) · [日本語](README.ja.md)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=Fira+Code&amp;size=23&amp;duration=2500&amp;pause=1100&amp;width=440&amp;height=42&amp;vCenter=true&amp;lines=%E7%B6%AD%E8%AD%B7+CurrentMusic%3B%E9%96%8B%E7%99%BC+AstrBot+%E5%A4%96%E6%8E%9B&amp;color=79C0BE">
-  <img alt="維護 CurrentMusic · 開發 AstrBot 外掛" src="https://readme-typing-svg.demolab.com/?font=Fira+Code&amp;size=23&amp;duration=2500&amp;pause=1100&amp;width=440&amp;height=42&amp;vCenter=true&amp;lines=%E7%B6%AD%E8%AD%B7+CurrentMusic%3B%E9%96%8B%E7%99%BC+AstrBot+%E5%A4%96%E6%8E%9B&amp;color=235E63">
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=Fira+Code&amp;size=23&amp;duration=2500&amp;pause=1100&amp;width=440&amp;height=42&amp;vCenter=true&amp;lines=%E5%9C%A8%E5%81%9A+CurrentMusic%3B%E4%B9%9F%E5%AF%AB%E9%BB%9E+AstrBot+%E5%A4%96%E6%8E%9B&amp;color=79C0BE">
+  <img alt="在做 CurrentMusic · 也寫點 AstrBot 外掛" src="https://readme-typing-svg.demolab.com/?font=Fira+Code&amp;size=23&amp;duration=2500&amp;pause=1100&amp;width=440&amp;height=42&amp;vCenter=true&amp;lines=%E5%9C%A8%E5%81%9A+CurrentMusic%3B%E4%B9%9F%E5%AF%AB%E9%BB%9E+AstrBot+%E5%A4%96%E6%8E%9B&amp;color=235E63">
 </picture>
 
 [![首頁瀏覽量](https://komarev.com/ghpvc/?username=backrooms-yrc&color=315a66&style=flat-square)](https://github.com/backrooms-yrc)
 [![追蹤者](https://img.shields.io/github/followers/backrooms-yrc?style=flat-square&label=Followers&color=315A66)](https://github.com/backrooms-yrc?tab=followers)
 [![星號數](https://img.shields.io/github/stars/backrooms-yrc?style=flat-square&label=Stars&color=315A66)](https://github.com/backrooms-yrc?tab=repositories)
 
-高中生，獨立開發者。我經營個人工作室 **Rcst Network Studio**，主要開發網頁應用程式、聊天機器人和自架服務。
+我是個喜歡玩伺服器的高中生。平常做點網頁應用，也寫些可以自己架設的小工具。我用 **Rcst Network Studio** 這個名字發布自己的專案。
 
-我也參與中文維基百科編輯，主要補充家鄉的學校與教育條目。業餘會寫同人作品，也做虛擬電視台企劃。 [維基百科使用者頁](https://zh.wikipedia.org/wiki/User:Rcst20) · [同人作品](https://github.com/backrooms-yrc/Tsumugi-Yuzuha-Fanfics)
+寫程式之餘，我會去中文維基百科幫家鄉的學校與教育條目補點資料。也寫同人，偶爾想想虛擬電視台的企劃。 [維基百科使用者頁](https://zh.wikipedia.org/wiki/User:Rcst20) · [同人作品](https://github.com/backrooms-yrc/Tsumugi-Yuzuha-Fanfics)
 
-## 專案
+## 做過的一些專案
 
 | 專案 | 說明 |
 | --- | --- |
@@ -43,14 +43,16 @@
 ![Windows](https://img.shields.io/badge/Windows-46566F?style=flat-square&logo=windows&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-46566F?style=flat-square&logo=android&logoColor=white)
 
-## GitHub 活躍度
+## 🐍 GitHub 活躍度
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/backrooms-yrc/backrooms-yrc/output/github-snake-dark.svg">
   <img alt="根據 GitHub 貢獻日曆產生的貪食蛇動畫" src="https://raw.githubusercontent.com/backrooms-yrc/backrooms-yrc/output/github-snake.svg">
 </picture>
 
-## 聯絡方式
+## 來聊聊
+
+想聊專案或交換點子，可以在這裡找到我。
 
 [![部落格](https://img.shields.io/badge/Blog-46566F?style=flat-square&logo=githubpages&logoColor=white)](https://hmnl4.20110208.xyz)
 [![Gmail](https://img.shields.io/badge/Gmail-46566F?style=flat-square&logo=gmail&logoColor=white)](mailto:ruochenyang161@gmail.com)

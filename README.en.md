@@ -1,21 +1,21 @@
-# Rcst20
+# Hi, I’m Rcst20
 
 [简体中文](README.md) · [繁體中文](README.zh-Hant.md) · **English** · [日本語](README.ja.md)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=Fira+Code&amp;size=23&amp;duration=2500&amp;pause=1100&amp;width=440&amp;height=42&amp;vCenter=true&amp;lines=Maintaining+CurrentMusic%3BBuilding+AstrBot+plugins&amp;color=79C0BE">
-  <img alt="Maintaining CurrentMusic · Building AstrBot plugins" src="https://readme-typing-svg.demolab.com/?font=Fira+Code&amp;size=23&amp;duration=2500&amp;pause=1100&amp;width=440&amp;height=42&amp;vCenter=true&amp;lines=Maintaining+CurrentMusic%3BBuilding+AstrBot+plugins&amp;color=235E63">
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=Fira+Code&amp;size=23&amp;duration=2500&amp;pause=1100&amp;width=440&amp;height=42&amp;vCenter=true&amp;lines=Working+on+CurrentMusic%3BI+write+AstrBot+plugins%2C+too&amp;color=79C0BE">
+  <img alt="Working on CurrentMusic · I write AstrBot plugins, too" src="https://readme-typing-svg.demolab.com/?font=Fira+Code&amp;size=23&amp;duration=2500&amp;pause=1100&amp;width=440&amp;height=42&amp;vCenter=true&amp;lines=Working+on+CurrentMusic%3BI+write+AstrBot+plugins%2C+too&amp;color=235E63">
 </picture>
 
 [![Profile views](https://komarev.com/ghpvc/?username=backrooms-yrc&color=315a66&style=flat-square)](https://github.com/backrooms-yrc)
 [![Followers](https://img.shields.io/github/followers/backrooms-yrc?style=flat-square&label=Followers&color=315A66)](https://github.com/backrooms-yrc?tab=followers)
 [![Stars](https://img.shields.io/github/stars/backrooms-yrc?style=flat-square&label=Stars&color=315A66)](https://github.com/backrooms-yrc?tab=repositories)
 
-I'm a high school student and independent developer. I run **Rcst Network Studio**, where I build web apps, chatbots, and self-hosted services.
+I’m in high school, and I like tinkering with servers. I build web apps and tools you can run yourself, and put them out under the name **Rcst Network Studio**.
 
-I edit Chinese Wikipedia, mostly articles on schools and education in my hometown. I also write fan fiction and work on virtual TV station projects. [Wikipedia user page](https://zh.wikipedia.org/wiki/User:Rcst20) · [Fiction](https://github.com/backrooms-yrc/Tsumugi-Yuzuha-Fanfics)
+Away from the editor, I add bits and pieces to Chinese Wikipedia articles about schools and education in my hometown. I also write fan fiction and plan the occasional virtual TV station project. [Wikipedia user page](https://zh.wikipedia.org/wiki/User:Rcst20) · [Fiction](https://github.com/backrooms-yrc/Tsumugi-Yuzuha-Fanfics)
 
-## Projects
+## Things I’ve built
 
 | Project | Description |
 | --- | --- |
@@ -43,14 +43,16 @@ I edit Chinese Wikipedia, mostly articles on schools and education in my hometow
 ![Windows](https://img.shields.io/badge/Windows-46566F?style=flat-square&logo=windows&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-46566F?style=flat-square&logo=android&logoColor=white)
 
-## GitHub activity
+## 🐍 GitHub activity
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/backrooms-yrc/backrooms-yrc/output/github-snake-dark.svg">
   <img alt="Snake animation generated from my GitHub contribution calendar" src="https://raw.githubusercontent.com/backrooms-yrc/backrooms-yrc/output/github-snake.svg">
 </picture>
 
-## Contact
+## Say hi
+
+Want to talk about a project or swap ideas? Here’s where to find me.
 
 [![Blog](https://img.shields.io/badge/Blog-46566F?style=flat-square&logo=githubpages&logoColor=white)](https://hmnl4.20110208.xyz)
 [![Gmail](https://img.shields.io/badge/Gmail-46566F?style=flat-square&logo=gmail&logoColor=white)](mailto:ruochenyang161@gmail.com)
