@@ -1,4 +1,4 @@
-# 嗨，我是 Rcst20
+# 你好喵，我是 Rcst20！
 
 **简体中文** · [繁體中文](README.zh-Hant.md) · [English](README.en.md) · [日本語](README.ja.md)
 
@@ -11,9 +11,9 @@
 [![关注者](https://img.shields.io/github/followers/backrooms-yrc?style=flat-square&label=Followers&color=315A66)](https://github.com/backrooms-yrc?tab=followers)
 [![获星数](https://img.shields.io/github/stars/backrooms-yrc?style=flat-square&label=Stars&color=315A66)](https://github.com/backrooms-yrc?tab=repositories)
 
-我是个爱折腾服务器的高中生。平时做点 Web 应用，也写些能自己部署的小工具。我用 **Rcst Network Studio** 这个名字发布自己的项目。
+我是个爱折腾服务器的高中生。平时做点 Web 应用，也写些能自己部署的小工具。我用 **CurrentCortex Studio** 这个名字发布自己/团队的项目。
 
-写代码之外，我会去中文维基百科给家乡的学校和教育条目补点资料。也写同人，偶尔琢磨一下虚拟电视台企划。 [维基百科用户页](https://zh.wikipedia.org/wiki/User:Rcst20) · [同人作品](https://github.com/backrooms-yrc/Tsumugi-Yuzuha-Fanfics)
+写代码之外，我会去中文维基百科给一些条目补点资料。 [维基百科用户页](https://zh.wikipedia.org/wiki/User:Rcst20) · [代投的同人作品](https://github.com/backrooms-yrc/Tsumugi-Yuzuha-Fanfics)
 
 ## 做过的一些项目
 
@@ -52,7 +52,7 @@
 
 ## 来聊聊
 
-想聊项目或者交换点子，可以来这里找我。
+想聊项目或者交换点子，可以来这里找我喵~
 
 [![博客](https://img.shields.io/badge/Blog-46566F?style=flat-square&logo=githubpages&logoColor=white)](https://hmnl4.20110208.xyz)
 [![Gmail](https://img.shields.io/badge/Gmail-46566F?style=flat-square&logo=gmail&logoColor=white)](mailto:ruochenyang161@gmail.com)
@@ -60,6 +60,6 @@
 [![Telegram](https://img.shields.io/badge/Telegram-46566F?style=flat-square&logo=telegram&logoColor=white)](https://t.me/rcst20)
 [![维基百科](https://img.shields.io/badge/Wikipedia-46566F?style=flat-square&logo=wikipedia&logoColor=white)](https://zh.wikipedia.org/wiki/User:Rcst20)
 
-## 喵喵叫环节
+## The End
 
-喵。修完这个 bug 就去看百合。
+修完这个 bug 就去看百合。
